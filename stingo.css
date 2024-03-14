@@ -1,0 +1,48 @@
+body {
+  font-size: x-large;
+  font-weight: 100;
+  font-family: fantasy;
+}
+.header {
+  background-color: greenyellow;
+  padding: 20px;
+}
+.introduction {
+  background-color: rgb(176, 194, 16);
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.skills {
+  background-color: greenyellow;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.skills ul {
+  padding: 0px;
+  list-style: georgian;
+}
+.skills li {
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.button {
+  padding: 10px;
+  margin-left: 5px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.image {
+  height: 50px;
+  width: 50px;
+}
+.contacts {
+  background-color: rgb(176, 194, 16);
+  padding: 10px;
+  margin: 20px;
+}
+.contacts a {
+  margin: auto;
+}
